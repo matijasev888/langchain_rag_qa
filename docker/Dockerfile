@@ -1,26 +1,13 @@
-version: '3.8'
+FROM python:3.11
 
-services:
-  app:
-    build:
-      context: ..
-      dockerfile: docker/Dockerfile
-    ports:
-      - "5000:5000"
-    volumes:
-      - ../:/app
-    environment:
-      - FLASK_ENV=development
-      - HUGGINGFACEHUB_API_TOKEN=${HUGGINGFACEHUB_API_TOKEN}
-    depends_on:
-      - faiss_db
+WORKDIR /app
 
-  faiss_db:
-    image: your-faiss-db-image
-    ports:
-      - "8080:8080"
-    volumes:
-      - faiss_data:/var/lib/faiss
+COPY . /app
 
-volumes:
-  faiss_data:
+RUN pip install  -r requirements.txt
+
+EXPOSE 5000
+
+ENV FLASK_APP=api/app.py
+
+CMD ["flask", "run", "--host=0.0.0.0"]
