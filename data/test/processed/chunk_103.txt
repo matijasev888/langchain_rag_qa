@@ -1,0 +1,15 @@
+source: data\test\raw\catan_56.pdf
+page: 7
+88Player 1 and 2 Actions Overview
+CRedits
+Design: Klaus Teuber
+Art: Michael Menzel, Pete Fenlon
+Graphic Design: Pete Fenlon, Michaela Kienle, and Ron Magin
+Production: Ron Magin, Alex Colón Hernández, Az Sperry
+Paired Player Turn Development: Team CATAN 
+Special Thanks: Gavin Allister, Brea Blankenfeld, Arnd Beenen, Sebastian Castro Casas, Morgan 
+Dontanville, Pete Fenlon, Arnd Fischer, Jasmin Fuss, Ralph Hamor (LSKC/1-804), Sonja 
+Krützfeldt, Stephanie Newman, Donna Prior, Anne Reynolds, Kelli Schmitz, Benjamin Teuber, 
+Guido Teuber
+Copyright © 2023 CATAN GmbH and CATAN Studio. CATAN, CATAN – 5-6 Player Extension, The Settlers of 
+Catan, the “Catan Sun” logo, the “Glowing Yellow Sun” and “CATAN Board” marks, and all marks herein are

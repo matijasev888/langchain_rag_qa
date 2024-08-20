@@ -1,0 +1,42 @@
+source: data\raw\catan_34.pdf
+page: 11
+set-up, varia Ble
+Assemble the frame as outlined on pages 2-3.
+Note: If you want to vary relative harbor locations slightly, just shuffle the order of the frame pieces and do not place the random harbor pieces as outlined below in point 2.
+Turn the terrain hexes 
+face down. Shuffle the terrain hexes.
+1. Randomly place 
+the terrain tiles face up inside the frame arranged as shown in Illustration O.
+Illustration M
+Suggested Beginners’ Map Set-upIllustration N
+99
+••••••••22
+••
+88
+••••••••••1010
+••••••
+55
+••••••••1212
+••
+55
+••••••••44
+••••••
+1111
+••••1010
+••••••
+1111
+••••
+66
+••••••••••44
+••••••
+99
+••••••••66
+••••••••••
+33
+••••
+33
+••••88
+••••••••••
+Illustration O
+AACCBBBB
+BBAA

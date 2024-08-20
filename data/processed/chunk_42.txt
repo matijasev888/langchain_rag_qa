@@ -1,0 +1,12 @@
+source: data\raw\catan_34.pdf
+page: 8
+maritime  trade
+On your turn, you can trade resources using maritime trade 
+during the trade phase even without involving another player.
+The most basic (and unfavorable) exchange rate is 4:1.  
+You may trade 4 identical resource cards to the supply in exchange for  1 resource card of your choice. You  do not need a harbor Y  (settlement  
+at a harbor location) to trade at 4:1,  so when nobody wants to trade…
+Example: Benny returns 4 ore cards to the supply and takes 1 lumber card in exchange. Normally, he should first try a more favorable trade with the other players (domestic trade).
+If you have built a settlement or city at a harbor Y  location, 
+you can trade more effectively. There are 2 different kinds of harbor locations:
+Generic Harbor (3:1): Here

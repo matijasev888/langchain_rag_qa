@@ -1,0 +1,19 @@
+source: data\test\raw\catan_34.pdf
+page: 9
+2 different resources.YEAR OF PLENTY
+© 2015 Catan GmbHMONOPOLY
+When you play this card, 
+announce 1 type of resource. 
+All other players must give 
+you all of their resources 
+of that type.
+88
+••••••••••
+44••••••
+ 33••••
+ 22••
+88••••••••••
+ 44••••••
+ 55••••••••
+AA BB
+Illustration J

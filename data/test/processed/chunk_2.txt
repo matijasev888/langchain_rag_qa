@@ -1,0 +1,15 @@
+source: data\test\raw\catan_34.pdf
+page: 1
+22Dear Settlers,
+To make it as easy as possible for you to start playing Catan ®, we use an award-winning rules system, which consists 
+of 3 parts. First, if you do not know how to play Catan, please read the Game Overview on page 16 (the back cover). 
+Next, read the Game Rules on pages 2-6 (red borders) and start to play the game. If you have questions during the 
+game, consult the Catan Almanac on pages 6-15 (gold borders).
+Now you are ready for your first adventure on Catan. Have fun settling this new land together!
+— Klaus Teuber
+You can find further information at:
+catan.com          catanstudio.com          klausteuber.com
+Game Rules
+These 4-page rules (pages 2-5) contain all the important 
+information that you need to play!
+If you need more information during the game, you can look

@@ -1,0 +1,17 @@
+source: data\raw\catan_34.pdf
+page: 6
+77DD
+desert
+The desert is the only terrain hex that 
+does not produce resources. The 
+robber Y  starts the game there. 
+A settlement or a city built adjacent to the desert yields fewer resources than those built next to one of the other terrain types.
+development  Cards
+There are 3 different kinds of development 
+cards: Knight Cards Y , Progress Cards Y , and 
+Victory Point Cards Y .
+When you buy a development card, take 
+the top card of the draw pile into your hand. Keep your development cards hidden until you play them. This keeps the other players in the dark.
+You cannot trade or give away development cards.
+You may only play 1 development card during your turn—
+either 1 knight card or 1 progress card. You can play the

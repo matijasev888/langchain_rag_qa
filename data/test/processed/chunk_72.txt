@@ -1,0 +1,28 @@
+source: data\test\raw\catan_34.pdf
+page: 13
+© 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach 
+the number of points 
+required for victory.LIBRARY
+© 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach 
+the number of points 
+required for victory.MARKET
+© 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach 
+the number of points 
+required for victory.CHAPEL
+© 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach 
+the number of points 
+required for victory.GREAT HALL
+ © 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach 
+the number of points 
+required for victory.UNIVERSITY
+A general note on Catan rules. This is the 5th English-

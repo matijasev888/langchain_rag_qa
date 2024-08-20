@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monopoly and Catan RULES Q&A</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .answer, .document-info {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            font-family: 'Courier New', Courier, monospace; /* Use a monospaced font for document info */
+        }
+        .document-info {
+            border-top: 2px solid #007bff;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Monopoly and Catan RULES Q&A</h1>
+        <form id="query-form">
+            <label for="query">Enter your query:</label>
+            <input type="text" id="query" name="query" required>
+            <button type="submit">Get Answer</button>
+        </form>
+        <div class="answer" id="answer"></div>
+        <div class="document-info" id="document-info"></div>
+    </div>
+
+    <script>
+        document.getElementById('query-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const query = document.getElementById('query').value;
+
+            fetch('/generate-answer', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.answer) {
+                    document.getElementById('answer').innerHTML = `<strong>Answer:</strong> ${data.answer}`;
+                    document.getElementById('document-info').innerHTML = `<strong>Document Info:</strong><br>${data.document_info}`;
+                } else {
+                    document.getElementById('answer').innerHTML = `<strong>Error:</strong> ${data.error}`;
+                }
+            })
+            .catch(error => {
+                document.getElementById('answer').innerHTML = `<strong>Error:</strong> ${error.message}`;
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+source: data\raw\catan_34.pdf
+page: 15
+For this reason, you can trade with other players. Make them an offer! A successful trade might yield you a big build!
+You can only build a new settlement on an unoccupied 
+intersection if you have a road leading to that intersection and 
+the nearest settlement is at least two intersections away.
+Carefully consider where you build settlements. The numbers on the round tokens are depicted in varying sizes. They also 
+have dots (pips) below the numbers. The taller the depicted number, and the more pips it has, the more 
+likely that number is to be 
+rolled. The red numbers 
+6 and 8 are the tallest 
+numbers with the most pips; they 
+are likely to be rolled most 
+frequently.
+Bottom line: The more 
+frequently a number is 
+rolled, the more often 
+the hexes with those 
+numbers produce

@@ -1,0 +1,76 @@
+source: data\test\raw\catan_56.pdf
+page: 4
+55
+55
+5
+5342242
+266633311
+6
+  
+1010
+••••••
+66
+••••••••••
+88
+••••••••••66
+••••••••••
+22
+••
+1212
+••55
+••••••••  
+1010
+••••••33
+••••
+99
+••••••••22
+•• 1111
+••••
+88
+••••••••••  44
+••••••1111
+••••
+55
+•••••••• 88
+••••••••••  
+44
+••••••99
+••••••••
+33
+••••  
+44
+••••••
+33
+•••• 66
+••••••••••55
+••••••••1111
+••••
+  
+1010
+••••••1212
+••
+99
+••••••••
+Starting Set-up for 5-6 New Players *
+A B C
+D O p Q
+R N X Y
+Za M W Zc E S
+Zb F T
+G K V U
+J I HLNumber Token Placement Order
+Orange
+BrownWhiteWhite
+Blue
+GreenRed
+* For your first 5 player 
+game: One color remains 
+inactive in the game. To 
+determine which color, a 
+player takes 1 road of each 
+color and hides them in 
+their hand. Each player 
+takes 1 road at random 
+from this hand (unseen). 
+The remaining road is 
+the inactive color. Leave

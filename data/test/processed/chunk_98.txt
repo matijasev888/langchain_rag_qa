@@ -1,0 +1,14 @@
+source: data\test\raw\catan_56.pdf
+page: 4
+takes 1 road at random 
+from this hand (unseen). 
+The remaining road is 
+the inactive color. Leave 
+that color’s settlements 
+on the board as inactive 
+settlements, but remove  
+the roads. This will 
+maintain a fair starting 
+set-up for all players.HH HHHH
+HH
+HHHH

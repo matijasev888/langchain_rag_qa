@@ -1,0 +1,13 @@
+source: data\test\raw\catan_34.pdf
+page: 4
+Keep your development cards hidden (in your hand) until 
+you use them, so your opponents can’t anticipate your play.
+4. Special Cases
+a) Rolling a “7” and Activating the Robber Y
+If you roll a “7,” no one receives any resources.
+Instead, every player who has more than 7 resource cards 
+must select half (rounded down) of their resource cards and 
+return them to the bank.
+Then you must move the robber Y . Proceed as follows:
+(1) You must move the robber Y  immediately to the number 
+token of any other terrain hex or to the desert Y  hex.(2) Then you steal 1 (random) resource card from an

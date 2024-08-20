@@ -1,0 +1,7 @@
+source: data\raw\catan_34.pdf
+page: 14
+Original U.S. Product Development: Coleman Charlton, Robert 
+T. Carty Jr., Pete Fenlon, Nick Johnson, Will Niebling, William Niebling, 
+Guido Teuber, Larry Roznai, and Alex Yeager With thanks to: Bridget Roznai, Loren Roznai, Schar Niebling, Peter Bromley, Darwin Bromley, Trella Bromley, Bill Wordelmann, Elaine Wordelmann, Lou Rexing, Tom Smith, Keywood Cheeves, Mike Strack, Benny Teuber, Claudia Teuber, Liam Teuber, Leif Teuber, Emily Johnson, Olivia Johnston, Karl Roelofs, Arnd Beenen, Gero Zahn, and  Scott Anderson
+Copyright © 2020 Catan GmbH and Catan Studio. Catan,  
+The Settlers of Catan, the “Catan Sun” logo, the “Glowing Yellow

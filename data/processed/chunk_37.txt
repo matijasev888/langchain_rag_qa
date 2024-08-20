@@ -1,0 +1,11 @@
+source: data\raw\catan_34.pdf
+page: 7
+You then steal 1 resource card from a player who has a 
+settlement or a city adjacent to the robber. If there are 2 or more such players, you may choose your victim.
+The player you elect to rob keeps their cards face down while 
+you take 1 of their cards at random. If that player has no cards, you get nothing! (However, you can always ask players about the number of cards they hold. They must answer truthfully.)
+If you are the first player to have 3 knight cards face up in 
+front of you, you take the “Largest Army” Y  special card. This 
+special card is worth 2 victory points.
+If another player has more face-up knight cards than you, 
+they take the special card and the 2 victory points that go with it.

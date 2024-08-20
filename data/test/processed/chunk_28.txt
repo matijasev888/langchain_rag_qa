@@ -1,0 +1,7 @@
+source: data\test\raw\catan_34.pdf
+page: 5
+After rolling for resource production, you can trade and build 
+in any order (you can trade, build, trade again and build again, etc.). You can even use a harbor on the same turn you build a settlement there. Using this method speeds up the game a lot.
+Illustration E
+EE88••••••••••
+EE88••••••••••

@@ -1,0 +1,14 @@
+source: data\raw\catan_34.pdf
+page: 5
+66
+almanac
+This “Catan Almanac” contains detailed, alphabetical entries 
+and examples for Catan. These are not the “Game Rules.” 
+You do not have to read this material prior to your first game. Instead, use the Game Rules. Then read this to enjoy the complete experience.
+This almanac includes advanced rules and clarifications. You 
+can also refer to it if any questions arise during a game.
+BB
+Build (Buildin G)
+You may build on your turn after you have rolled for resource 
+production and finished trading. To build, you must turn in the specified combinations of resource cards (see the Building Costs Cards Y ). Return the resource cards to the supply stacks. 
+You can build as many items and buy as many cards as

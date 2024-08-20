@@ -1,0 +1,14 @@
+source: data\test\raw\catan_34.pdf
+page: 4
+Knight Cards (Purple Frame) Y
+If you play a knight card, you must 
+immediately move the robber. See “Rolling 
+a ‘7’ and Activating the Robber” above and follow steps 1 and 2.
+Once played, knight cards remain face 
+up in front of you. The first player to have 3 knight cards in front of themself receives the special card “Largest Army,” which is worth 2 victory points. If another player has more knight cards in front of them than the current holder of the Largest Army card, they immediately take the special card and its  2 victory points.
+Progress Cards (Green Frame) Y
+If you play a progress card, follow its 
+instructions. Then the card is removed from  
+the game (i.e., toss it in the box).
+Victory Point Cards (Orange Frame) Y
+You must keep victory point cards hidden.

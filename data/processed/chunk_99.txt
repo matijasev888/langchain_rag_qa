@@ -1,0 +1,13 @@
+source: data\raw\catan_56.pdf
+page: 5
+66• Each player, in turn, rolls the dice to determine the starting player as in CATAN.
+• Place your first 2 settlements, 2 roads, and receive your starting resources, using the 
+method described in Set-Up on page 12 of the CATAN Almanac.
+new Rules foR 5-6 playe Rs
+The phases used in CATAN remain the same–resource production, trade, and build. For 
+5-6 players, use the new paired player rules during trading and building.
+Note: If you have played previous versions of CATAN 5-6, this paired player rule replaces the 
+special building phase.
+Determine the Paired Players
+• If you are the starting player, place the player 1 marker in front of yourself.
+• Place the player 2 marker in front of the third player to the left of player 1.

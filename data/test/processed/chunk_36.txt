@@ -1,0 +1,15 @@
+source: data\test\raw\catan_34.pdf
+page: 7
+order to control a harbor, you  must build a settlement on a coastal intersection Y  which 
+borders the harbor. See also “Maritime Trade” Y .
+II
+interse Ctions
+Intersections are 
+the points where 3 hexes meet. See Illustration G. You may only build settlements on intersections. The influence (for resource yields) of settlements and cities extends into the 3 adjacent terrain hexes that form the intersection.KK
+KniGht Cards
+When you play a “Knight” development card during your turn, 
+you must immediately move the robber Y . Place the knight card 
+face up in front of you.
+You must move the robber away from its current spot and 
+onto the number token of any other terrain hex or on the desert.
+You then steal 1 resource card from a player who has a

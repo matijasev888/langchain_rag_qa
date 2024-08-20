@@ -1,0 +1,34 @@
+source: data\raw\catan_34.pdf
+page: 13
+1414trade
+After you roll for resource production, you may trade with 
+other players (domestic trade Y ) or with the bank (maritime 
+trade Y ).
+•
+ Y
+ou may trade as long as you have resource cards.
+•
+ If you decide not to trade during your turn, 
+ 
+no one can trade.
+•
+ Y
+ou may trade with another player between your turns,  
+but only if it is that player’s turn and they elect to trade  
+with you.
+•
+ Y
+ou may not trade with the bank during another  
+player’s turn.
+•
+ Y
+ou may not give away cards.
+•
+ Y
+ou may not trade development cards.
+•
+ Y
+ou may not trade like resources (e.g., 2 wool for 1 wool).
+VV
+viCtory point Cards
+Victory point cards are development cards Y , so they can

@@ -1,0 +1,17 @@
+source: data\raw\catan_34.pdf
+page: 7
+they take the special card and the 2 victory points that go with it.
+Example: See Illustration H. On Niall’s turn, he plays a knight card and moves the robber from the fields hex to the hills hex with the “4.” Niall may now steal a random resource card from player A or B.
+LL
+larGest army
+If you are the first player to play  
+3 knight cards, you receive this special card, which is worth 2 victory points. You place the “Largest Army” card face up in front of you. If another player plays more knight cards than you have, they immediately take the special card. The 2 victory points likewise count for the new owner.
+Illustration G
+Illustration H
+JJ44••••••
+AA
+BB
+laRGest aRmy
+2 Victory Points!
+The first player to play 3 knight cards  
+gets this card. Another player who plays

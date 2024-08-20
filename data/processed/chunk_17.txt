@@ -1,0 +1,17 @@
+source: data\raw\catan_34.pdf
+page: 4
+upgrading one of your settlements.
+When you upgrade a settlement to a 
+city, put the settlement (house) piece back in your supply and replace it with a city piece (church).
+Cities produce twice as many resources as settlements. 
+You acquire 2 resource cards for an adjacent terrain hex that produces resources.
+Each city is worth 2 victory points.
+d) Buying a Development Card Y  
+Requires: Ore, Wool, & Grain
+When you buy a development card, 
+draw the top card from the deck. There are 3 different kinds of these cards: knight Y , progress Y , and 
+victory point Y . Each has a different 
+effect (see 4.b, below).
+Development cards never go back into the supply, and you 
+cannot buy development cards if the supply is empty.
+Keep your development cards hidden (in your hand) until

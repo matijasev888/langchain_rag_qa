@@ -1,0 +1,5 @@
+source: data\test\raw\catan_34.pdf
+page: 0
+Klaus Teuber
+Game Rules Game Rules
+&& almanac almanac

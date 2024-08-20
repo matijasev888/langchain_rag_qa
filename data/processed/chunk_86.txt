@@ -1,0 +1,56 @@
+source: data\raw\catan_34.pdf
+page: 15
+How do you acquire 
+resources? It’s simple. Each turn, you roll 2 dice to determine which terrain hexes produce resources. Each terrain hex is marked with a round number token. If, for example, a “10” is rolled, all terrain hexes with a “10” number token produce resources—in the illustration on the right, those terrain hexes are a mountains  hex (ore) and a hills hex (brick).
+88
+••••••••••
+D
+HH
+99
+••••••••22
+••
+88
+••••••••••1010
+••••••
+55
+••••••••1212
+••
+55
+••••••••44
+••••••
+1111
+••••1010
+••••••
+1111
+••••
+66
+••••••••••44
+••••••
+99
+••••••••66
+••••••••••
+33
+••••
+33
+••••88
+••••••••••HarborHarbor
+PathPath
+ RobberRobberIntersectionIntersectionA
+B
+C
+HH
+D
+HH
+HHHH
+Hills  
+Produce BrickF
+orest  
+Produces LumberM
+ountains  
+Produce Ore
+F
+ields  
+Produce GrainP
+asture  
+Produces WoolD
+esert

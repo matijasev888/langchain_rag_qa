@@ -1,0 +1,9 @@
+source: data\raw\catan_34.pdf
+page: 4
+opponent who has a settlement or city adjacent to the target terrain hex. The player who is robbed holds their resource cards face down. You then take 1 card at random. If the target hex is adjacent to 2 or more players’ settlements or cities, you choose which one you want to steal from.
+Important: If the production number for the hex containing the robber is rolled, the owners of adjacent settlements and cities do not receive resources. The robber prevents it.
+b) Playing Development Cards Y
+At any time during your turn, you may play 1 development 
+card (put it face up on the table). That card, however, may not be a card you bought during the same turn (except for a victory point card, as described below)!
+Knight Cards (Purple Frame) Y
+If you play a knight card, you must

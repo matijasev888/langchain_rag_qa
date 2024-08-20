@@ -1,0 +1,5 @@
+source: data\test\raw\catan_56.pdf
+page: 7
+Trade with other players and the supply  Trade with the supply only
+ Build  Build
+ Play 1 development card  Play 1 development card

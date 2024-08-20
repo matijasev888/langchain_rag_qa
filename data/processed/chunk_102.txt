@@ -1,0 +1,15 @@
+source: data\raw\catan_56.pdf
+page: 6
+the paired turn.
+Player 2 may do the following in any order:
+• Trade cards ONLY with the supply.
+• Build anything shown on your “Building Costs” card and play 1 development card  
+as usual (even VP cards to win the game).
+After player 2 completes their part of the turn, the paired players each pass their 
+respective markers to the player on their left. Player 1 also passes the dice. The new 
+player 1 starts a new turn.
+Ending the Game Clarifications
+You win the game if you are the first player to reach 10 or more victory points on your 
+turn (as in CATAN). However, if there is ever an instance when both player 1 and  
+player 2 reach 10 points during the same turn, player 1 wins the game before player 2  
+can take their part of the paired turn.

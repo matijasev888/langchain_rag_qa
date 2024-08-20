@@ -1,0 +1,5 @@
+source: data\raw\catan_56.pdf
+page: 0
+NOTE: This 2022 revision has new “paired player” rules that replace the special building phase 
+found in previous editions of CATAN 5-6. Longtime CATAN fans should take note. You can 
+download the new rules from catan.com for free.

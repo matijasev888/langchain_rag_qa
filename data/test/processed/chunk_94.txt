@@ -1,0 +1,13 @@
+source: data\test\raw\catan_56.pdf
+page: 3
+44Create the Supply
+Add the 25 resource cards and 9 development cards to the cards for 3-4 players. Sort the 
+resource cards into 5 stacks. Put them face up beside the board. Shuffle the development 
+cards and place them face down beside the board. These card stacks form the supply.
+Place the “Longest Road” and “Largest Army” special VP cards beside the supply.
+The 5-6 Player Set-up Phase
+Take your starting pieces
+Select a color and take your 5 settlements, 4 cities, and 15 roads. Also take your color’s 
+“Building Costs” card. If this is your first 5-player game, see the note on page 5.
+For your first 5-6 player game: Use the Starting Set-up for 5-6 New Players  
+(see image on page 5). Once set-up is complete, give each player their starting resources

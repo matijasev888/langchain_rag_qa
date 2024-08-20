@@ -1,0 +1,13 @@
+source: data\test\raw\monopoly.pdf
+page: 3
+group (e.g., Boardwalk and Park Place; or Connecticut, Vermont and 
+Oriental Avenues) because the owner may then charge double rent 
+for unimproved properties in that color-group. This rule applies to 
+unmortgaged properties even if another property in that color-group is 
+mortgaged. 
+It is even more advantageous to have houses or hotels on properties 
+because rents are much higher than for unimproved properties. 
+The owner may not collect the rent if he/she fails to ask for it before 
+the second player following throws the dice. 
+"CHANCE" AND "COMMUNITY CHEST": When you land on either of 
+these spaces, take the top card from the deck indicated, follow the

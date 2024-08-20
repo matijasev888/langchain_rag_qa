@@ -1,0 +1,21 @@
+source: data\raw\catan_56.pdf
+page: 1
+22Note: When you want to play with 3-4 players again, we have made it easy to separate the 
+cardboard CATAN 5-6 components from the CATAN components. 
+•  Look at the front of the terrain hexes. The CATAN 5-6 hexes all have a 
+watermark icon (depicted here) printed in the lower left corner.  
+CATAN terrain hexes have no watermarks.
+•  Look at the back of the number tokens. The letters on the back of the 
+CATAN 5-6 tokens are dark brown. The letters on the standard CATAN 
+number tokens are black.Game Components
+To play CATAN 5-6, you need nearly all of the components from the CATAN base game, 
+plus the following pieces:
+11 terrain hexes  
+(1 Desert, 2 ea. Forest, Hills, Pasture,  
+Fields, and Mountains)
+25 resource  
+cards
+9 development  
+cards
+2 optional 
+harbor pieces28 number tokens

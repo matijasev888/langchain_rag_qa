@@ -1,0 +1,80 @@
+source: data\raw\catan_34.pdf
+page: 14
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 14
+Victory Point Cards  . . . . . . . . . . . . . . . . . . . . 14
+V
+ictory Points  
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 
+.
+ 14Credits
+Designer: Klaus Teuber (klausteuber.com)
+Original Development: TM-Spiele GmbH5
+th Ed. Development Team: Pete Fenlon, Arnd Fischer,  
+ Ron Magin, Benjamin T
+euber, and Guido Teuber
+Art: Michael Menzel, Pete FenlonArt Direction & Graphic Design: Pete Fenlon,  
+ Michaela Kienle, and Ron Magin
+Production:
+ Ron Magin & Pete Fenlon
+Special Thanks: Robert T. Carty, Jr., Coleman Charlton, 
+Morgan Dontanville, Alex Colón Hernández, Aud Ketilsdatter 
+(LSKC/354-2), Stephanie Newman, Donna Prior and Kelli Schmitz.
+Original U.S. Product Development: Coleman Charlton, Robert

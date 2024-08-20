@@ -1,0 +1,16 @@
+source: data\raw\catan_56.pdf
+page: 6
+77Paired Player Turn Order
+Player 1 performs this part of a turn just as you would in CATAN.
+• Begin the turn with the production dice roll. All players take their resources  
+(or any “7” roll is resolved) as usual in CATAN.
+The Combined Trade/Build Phase is slightly different with the paired players rule.
+Player 1 goes first and may do the following in any order:
+• Trade resource cards with all players as usual AND trade resource cards with the 
+supply as usual.
+• Build anything shown on your “Building Costs” card and play 1 development card  
+as usual.
+After player 1 completes their portion of the paired turn, player 2 takes their part of 
+the paired turn.
+Player 2 may do the following in any order:
+• Trade cards ONLY with the supply.

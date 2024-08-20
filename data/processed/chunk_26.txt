@@ -1,0 +1,8 @@
+source: data\raw\catan_34.pdf
+page: 5
+available again. You can use it to build another settlement later.
+Example: See Illustration E. Claudia, the blue player, rolls a resource production roll of “8.” She receives 3 ore cards: 1 ore for her settlement and 2 ore for her city. Benny, the red player, receives 2 lumber for his city.
+Hint: It is extremely difficult to win the game without 
+upgrading settlements to cities. Since you only have 5 settlements available, you can only reach 5 victory points by only building settlements.
+Coast
+When a terrain hex borders on the sea (i.e., a frame piece),

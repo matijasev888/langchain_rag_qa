@@ -1,0 +1,18 @@
+source: data\raw\catan_56.pdf
+page: 5
+• Place the player 2 marker in front of the third player to the left of player 1.
+Note: For the remainder of these rules, we will refer to the players with these markers as 
+player 1 and player 2, respectively.
+Paired Player Rules
+The phases used in CATAN remain generally the same. Player 1 rolls the dice for the 
+turn. However, during the trade/build phase, both player 1 and player 2 can take actions. 
+Player 1 must always complete their portion of the paired turn before player 2 can begin 
+their portion.
+1.2. 3.5 players
+The starting player  
+is player 1.The third player to the left of the 
+starting player is player 2.6 players
+1.2.3.
+The starting player  
+is player 1.The third player to the left of the 
+starting player is player 2.Paired Players

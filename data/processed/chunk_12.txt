@@ -1,0 +1,10 @@
+source: data\raw\catan_34.pdf
+page: 3
+sum of the dice determines which terrain hexes 
+produce resources.
+Each player who has a settlement on an intersection  Y  that 
+borders a terrain hex marked with the number rolled receives 1 resource card of the hex’s type. For an example see resource production Y . If you have 2 or 3 settlements bordering that hex, 
+you receive 1 resource card for each settlement. You receive 2 resource cards for each city you own that borders that hex. If there are not enough of a given resource in the supply to fulfill everyone’s production, then no one receives any of that resource during that turn (unless it only affects 1 player).2. Trade Y
+Afterwards, you may trade freely (using either or both types of 
+trades below) to gain needed resource cards:
+a) Domestic Trade Y

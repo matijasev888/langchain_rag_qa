@@ -1,0 +1,14 @@
+source: data\test\raw\catan_34.pdf
+page: 4
+55b) Settlement Y  Requires: Brick, Lumber, Wool, & Grain
+Take special note of the “Distance 
+Rule” Y : you may only build a 
+settlement at an intersection if all 
+3 of the adjacent intersections are vacant (i.e., none are occupied by any settlements or cities—even yours).
+Each of your settlements must connect to at least 1 of your 
+own roads. Regardless of whose turn it is (i.e., during any production phase), when a terrain hex produces resources, you receive 1 resource card for each settlement you have adjacent to that terrain hex.
+Each settlement is worth 1 victory point.
+c) City Y  Requires: 3 Ore & 2 Grain
+You may only establish a city by 
+upgrading one of your settlements.
+When you upgrade a settlement to a

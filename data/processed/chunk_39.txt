@@ -1,0 +1,5 @@
+source: data\raw\catan_34.pdf
+page: 7
+The first player to play 3 knight cards  
+gets this card. Another player who plays  
+more knight cards takes this card.

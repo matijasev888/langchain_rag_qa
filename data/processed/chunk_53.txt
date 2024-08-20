@@ -1,0 +1,13 @@
+source: data\raw\catan_34.pdf
+page: 10
+1111resour Ce trade
+In the second phase of your turn, you may trade with 
+the other players. The other players may not trade among 
+themselves, only with the player whose turn it is. There are  2 different kinds of trade:
+• Domestic trade Y  and 
+• Maritime trade Y .
+roads
+The roads connect your 
+settlements and cities. You build roads on paths Y . You 
+cannot build new settlements without also building roads. Roads provide victory points only if you hold the Longest Road Y  special card. Only 
+1 road may be built on each path. You can build roads along the coast.

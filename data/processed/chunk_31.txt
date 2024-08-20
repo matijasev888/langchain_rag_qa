@@ -1,0 +1,7 @@
+source: data\raw\catan_34.pdf
+page: 6
+adjacent intersections contains a settlement or city.
+Example: See Illustration F. Coleman, the blue player, wants to build a settlement. The settlements marked “A” are already in play. Coleman cannot build on the intersections marked “B.” He can only build at intersection “C.”domesti C trade
+On your turn, you may trade resources with the other players 
+(after rolling for resource production). You and the other players negotiate the terms of your trades—such as which cards will be exchanged. You may trade as many times as you can, using single or multiple cards. However, you cannot give away cards, or trade matching resources (“trade” 3 ore for 1 ore, for example).
+Important: While it is your turn, you must be a part of all trades, and the other players may not trade among themselves.

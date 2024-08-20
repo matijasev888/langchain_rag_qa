@@ -1,0 +1,4 @@
+source: data\raw\catan_34.pdf
+page: 9
+Example: See Illustration J. Loren, the blue player, rolls a “4,” Her settlement “A” borders a hills hex marked by the number “4,” so she takes a brick card. If settlement “A” had been a city, she would have received 2 brick cards. Bridget owns the red settlement “B” that borders on 2 hexes with the number “4”: hills and pasture. Bridget takes 1 brick card and 1 wool card from the supply stacks.
+It is possible that during the game there will not be enough

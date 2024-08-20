@@ -1,0 +1,20 @@
+source: data\raw\catan_34.pdf
+page: 3
+44Example: See Illustration A. Blue receives 1 brick card,  
+1 lumber card, and 1 ore card for his leftmost settlement (i.e., his settlement marked with a star 
+HH).
+Each player keeps their resource cards hidden in their hand.
+Important: Settlements and cities may only be placed at the corners of the terrain hexes—never along the edges (see Illustration C). Roads may only be placed at the edges of the terrain hexes—1 road per edge (see Illustration D). The 
+Distance Rule
+ Y means many 
+intersections along roads will 
+remain unoccupied.
+turn overview
+Unless you’re using the Starting 
+Set-Up for Experienced Players, the oldest player goes first. On your turn, you can do the following in the order listed:
+•
+ Y
+ou must roll for resource 
+production Y  (the result applies to all players).
+•
+ Y

@@ -1,0 +1,13 @@
+source: data\test\raw\catan_34.pdf
+page: 5
+You can build as many items and buy as many cards as 
+you desire—as long as you have enough resources to “pay” for them and they are still available in the supply. (See Settlements Y , Cities Y , Roads Y , and Development Cards Y .)
+Each player has a supply of 15 roads, 5 settlements, and 4 
+cities. If you build a city, return the settlement to your supply. Roads and cities, however, remain on the board until the end of the game once they are built.
+Your turn is over after “building,” and the player to your left 
+continues the game.
+New rule variant: see Combined Trade/Build Phase
+ Y
+.
+Buildin G Costs Cards
+The building costs cards show what can be built and which

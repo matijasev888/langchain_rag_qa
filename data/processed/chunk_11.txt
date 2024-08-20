@@ -1,0 +1,25 @@
+source: data\raw\catan_34.pdf
+page: 3
+•
+ Y
+ou must roll for resource 
+production Y  (the result applies to all players).
+•
+ Y
+ou may trade Y  resource cards with other players and/or 
+use maritime trade Y .
+•
+ Y
+ou may build Y  roads Y , settlements Y  or cities Y  and/
+or buy development cards Y . You may also play one 
+development card Y  at any time during your turn.
+After you’re done, pass the dice to the player to your left, who 
+then continues the game with step 1.
+Tip: For advanced players, we recommend combining the second and third steps. You can find more details in the 
+Almanac under “Combined Trade/Build Phase
+ Y.”
+The Turn in Detail
+1. Resource Production
+You begin your turn by rolling both dice. The 
+sum of the dice determines which terrain hexes 
+produce resources.

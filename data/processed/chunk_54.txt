@@ -1,0 +1,9 @@
+source: data\raw\catan_34.pdf
+page: 10
+1 road may be built on each path. You can build roads along the coast.
+Example: See Illustration K. Liam, the white player, would like to build a road. He may build (place) his road on any of the paths outlined in green. Each of these paths connects to either Liam’s road or his settlement, and is not blocked by the blue player’s settlement (see the path outlined in red).
+roBBer
+The robber begins the game in the desert Y . 
+It is moved only by rolling a “7” Y  or playing  
+a Knight Y  card.
+If the robber is moved to any other terrain

@@ -1,0 +1,7 @@
+source: data\raw\catan_34.pdf
+page: 9
+resour Ce produ Ction
+On your turn, you must roll the dice for the turn’s resource 
+production. The number rolled determines which hexes produce resources. Each number appears twice—except for “2” and “12,” which only appear once.
+All players who have settlements Y  or cities Y  on the hexes 
+indicated by the roll receive the yields (resource cards) of those hexes. Each settlement produces 1 resource card and each city produces 2 resource cards.

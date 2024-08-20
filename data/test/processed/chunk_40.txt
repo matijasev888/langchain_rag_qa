@@ -1,0 +1,10 @@
+source: data\test\raw\catan_34.pdf
+page: 8
+99lonGest road
+If you are the first player to build a 
+continuous road of at least 5 individual 
+road pieces, you take this special card and place it face up in front of you. This card is worth 2 victory points.
+Note: If your road network branches, you may only count the single longest branch for purposes of the longest road.
+If you hold the “Longest Road” card and another player 
+builds a longer road, they immediately take your “Longest Road” card. They also acquire the 2 bonus victory points. (Since you also lose the 2 victory points, it is a 4 point swing!)
+Example: See Illustration I. Emily, the red player, builds a continuous road with 7 wooden pieces (A–B). The branch roads (marked with arrows) are not counted. Emily snags the “Longest Road” special card.

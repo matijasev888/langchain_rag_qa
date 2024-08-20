@@ -1,0 +1,12 @@
+source: data\raw\catan_56.pdf
+page: 3
+(see image on page 5). Once set-up is complete, give each player their starting resources 
+from the settlements marked with white stars ( HH) as shown.
+For 5-6 experienced players: Once you are comfortable with the 5-6 player rules, add 
+the terrain hexes to the frame as follows:
+1.   Shuffle all 30 terrain hexes face down and place them face down inside the frame.
+2.  Turn the hexes face up, without changing their location.
+3.  Take the number tokens from CATAN 5-6 (brown letters on back).  
+Place the number token labeled “A” on any one of the six corner hexes (we chose the 
+upper right in our example on page 5). Continue placing the tokens in alphabetical 
+order along a spiral, starting on the outside hexes and proceeding counter-clockwise

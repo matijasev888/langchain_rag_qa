@@ -1,0 +1,11 @@
+source: data\test\raw\catan_34.pdf
+page: 10
+receive resources. Instead:
+(1) Each player counts their resource cards. Any player with 
+more than 7 resource cards (i.e., 8 or more) must choose and discard half of them. Return discards to the supply stacks. If you hold an odd number of cards, round down (e.g., if you have 9 resource cards, you discard 4).
+Example: Alex rolls a “7.” He has only 6 cards in his hand. Larry has 8 cards and Will has 11. Larry must discard 4 cards and Will 5 (rounding down).
+(2) Then you (the player who rolled the “7”) must move 
+the robber Y  to the number token Y  of any other terrain 
+hex (or to the desert Y  hex). This blocks the resource 
+production of this hex, until the robber moves to another number token or the desert.
+(3) After discarding occurs, you also steal 1 resource card at
