@@ -1,0 +1,12 @@
+source: data\raw\catan_34.pdf
+page: 11
+places a road adjacent to this settlement.
+The other players then follow clockwise.
+Everyone places 1 settlement and 1 adjoining road.
+Important: When placing all other settlements, the Distance 
+Rule Y  (see page 7) always applies!
+Round Two
+Once all players have built their first settlement, the player 
+who went last in the first round begins round two. That player builds their second settlement and its adjacent road.
+Important: After the starting player builds, the other players follow counterclockwise, so the starting player in round one places their second settlement last.
+The second settlement can be placed on any unoccupied

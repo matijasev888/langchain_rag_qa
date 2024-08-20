@@ -1,0 +1,16 @@
+source: data\raw\catan_56.pdf
+page: 2
+33Game Rules foR 5-6 playe Rs
+Except as noted below, CATAN 5-6 uses the same rules found in CATAN. The additional 
+rules include:
+• Assembling the larger board (add small frame pieces)
+• Creating the supply (add more cards)
+• The 5-6 player set-up phase
+• The paired players turn
+settin G up a 5-6 playe R Game
+Assembling the Larger Board
+To begin each game, you need to assemble the board. CATAN 5-6 uses a board very 
+similar to the one in CATAN, but expanded with additional small sea frames.
+Note: The 5 and 6 player games use all of the hexagonal tiles from CATAN 5-6 and all of the 
+tiles from the CATAN base game. However, you only use the number tokens from this extension 
+(lettered A to Y and ZA, ZB, and ZB).

@@ -1,0 +1,31 @@
+source: data\test\raw\catan_56.pdf
+page: 1
+25 resource  
+cards
+9 development  
+cards
+2 optional 
+harbor pieces28 number tokens  
+(brown text on back)4 small sea frames  
+(2 with harbors, 2 without)
+Player 1 and player 2 markers 
+with plastic bases
+A
+ A
+88••••••••••
+10 settlements  
+(5 per player)
+8 cities  
+(4 per player)
+30 roads  
+(15 per player)
+2 Building Costs 
+cards
+• A city replaces an already-built settlement.
+• You may only play 1 development card per turn.*
+• You cannot play a development card on the turn you buy it.*
+*Exception: Playing VP cards for the win.
+• A city replaces an already-built settlement.
+• You may only play 1 development card per turn.*
+• You cannot play a development card on the turn you buy it.*
+*Exception: Playing VP cards for the win.

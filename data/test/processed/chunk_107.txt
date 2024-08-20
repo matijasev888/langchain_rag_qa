@@ -1,0 +1,16 @@
+source: data\test\raw\monopoly.pdf
+page: 0
+/ 
+fast as playing with i't. 
+1. When starting the game, hand out an extra $1,000 to each player 
+(two $5005 should work). The game moves fast and you'll need 
+the extra cash to buy and build. 
+2. Do not use the Speed Die until you've landed on or passed over 
+GO for the first time. Once you collect that first $200 salary, you'll 
+use the Speed Die for the rest of the game. This means that some 
+players will start using the die before others. 
+3. Once you start using the Speed Die, roll it along with the two 
+white dice on your turn. Then do the following depending on 
+what you rolled. 
+1, 2, or 3: Add this number to the roll of the two white 
+dice. You'll zoom around the board.

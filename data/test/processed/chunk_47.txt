@@ -1,0 +1,8 @@
+source: data\test\raw\catan_34.pdf
+page: 9
+Monopoly: If you play this card, you must 
+name 1 type of resource. All the other players must give you all of the resource cards of this type that they have in their hands. If an opponent does not have a resource card of the specified type, they do not have to give  you anything.
+You may play only 1 development card Y  during 
+your turn.RR
+resour Ce Cards (resour Ces)
+There are 5 different types of resources

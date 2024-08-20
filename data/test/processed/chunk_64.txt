@@ -1,0 +1,11 @@
+source: data\test\raw\catan_34.pdf
+page: 12
+13132. Now take the  
+9 harbor pieces (the 
+small 5-sided pieces with ships on them) and randomly place one on top of each harbor on the frame. See Illustration P .
+3. Place the 18 number tokens as shown in Illustration Q:
+• Sort the number 
+tokens beside the 
+board, letter side face up.
+• Place 1 token on 
+each land hex. Start at a corner of the island. Place the number tokens on the terrain hexes in alphabetical order, proceeding counter-clockwise toward the center. Skip the desert.

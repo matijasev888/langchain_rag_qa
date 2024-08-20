@@ -1,0 +1,16 @@
+source: data\raw\monopoly.pdf
+page: 3
+"GO": Each time a player's token lands on or passes over 
+GO, whether by throwing the dice or drawing a card, 
+the Banker pays himther a $200 sala,ry. 
+The $200 is paid only once each time kound 
+the board. However, if a player passing GO on 
+the throw of the dice lands 2 spaces beyond it 
+on Community Chest, or 7 spaces beyond 
+it on Chance, and draws the "Advance to GO" card, helshe collects 
+$200 for passing GO the first time and another $200 for reaching it the 
+second time by instructions on the card. 
+BUYING PROPERTY: Whenever you land on an unowned property you 
+may buy that property from the Bank at its printed price. You receive the 
+Title Deed card showing ownership; place it faceup in front of you. 
+If you do not wish to buy the property, the Banker sells it at auction

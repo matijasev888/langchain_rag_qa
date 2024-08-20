@@ -1,0 +1,11 @@
+source: data\raw\catan_34.pdf
+page: 3
+trades below) to gain needed resource cards:
+a) Domestic Trade Y
+On your turn, you can trade resource cards with any of the 
+other players. You can announce which resources you need and 
+what you are willing to trade for them. The other players can also make their own proposals and counteroffers.
+Important: Players may only trade with the player whose turn it is. The other players may not trade among themselves. 
+b) Maritime Trade Y
+You can also trade without the other players! During your 
+turn, you can always trade at 4:1 by putting 4 identical resource cards back in their stack and taking any 1 resource card of your choice for it. If you have a settlement or city on a harbor Y , you

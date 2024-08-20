@@ -1,0 +1,8 @@
+source: data\raw\catan_34.pdf
+page: 9
+your turn.RR
+resour Ce Cards (resour Ces)
+There are 5 different types of resources 
+(see page 3): grain (from fields), brick (from hills), ore (from mountains), lumber (from forest), and wool (from pasture). These resources are represented by “resource cards.” You receive these cards as income from the resource production of these hexes. Resource production is determined by the dice roll at the beginning of each turn. You receive your income for each terrain hex adjacent to your settlements or cities every time the production number on the hex is rolled (exception: see Robber Y ).
+resour Ce produ Ction
+On your turn, you must roll the dice for the turn’s resource

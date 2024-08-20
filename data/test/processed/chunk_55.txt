@@ -1,0 +1,9 @@
+source: data\test\raw\catan_34.pdf
+page: 10
+a Knight Y  card.
+If the robber is moved to any other terrain 
+hex, it prevents that hex from producing resources. Players with settlements and/or cities adjacent to the target terrain hex receive no resources from this hex as long as the robber is in the hex.“A” and “B” do not receive a brick resource card. This lasts until the robber is moved again by another “7” or a knight card. Xander may also take 1 resource card at random from 1 of the players who own settlements “A” or “B”.
+rollin G a “7” and aCtivatin G the roBBer
+If you roll a “7” for resource production, none of the players 
+receive resources. Instead:
+(1) Each player counts their resource cards. Any player with

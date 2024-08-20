@@ -1,0 +1,6 @@
+source: data\test\raw\catan_34.pdf
+page: 15
+Since the settlements and cities usually border on 2-3 terrain types, they can “harvest” up to 3 different resources based on 
+the dice roll. Here, the white settlement [C] borders on forest, mountains, and pasture. A settlement at [D] would only harvest the production from 2 terrain hexes (hills and mountains). Finally, a settlement at [E] would only harvest the production from 1 terrain hex (pasture). However [E] is also at a wool harbor.
+Since it’s impossible for you to have settlements adjacent to all terrain hexes and number tokens, you may receive certain 
+resources only at rare intervals—or never. This is tough, because building requires specific resource combinations.

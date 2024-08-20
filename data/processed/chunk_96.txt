@@ -1,0 +1,15 @@
+source: data\raw\catan_56.pdf
+page: 3
+order along a spiral, starting on the outside hexes and proceeding counter-clockwise 
+toward the center of the board. Place each token so that the numbered side is facing 
+up. When the series of tokens reaches a desert hex, skip over that hex and continue on 
+the other side.
+  Note: The last three tokens are each marked with two letters: ZA, ZB, ZC.
+4.   Place the robber on either of the desert hexes.
+Optional: Some experienced players like to randomize their harbors. To do so, 
+here’s how: Take the 11 harbor pieces (9 from CATAN + 2 from CATAN 5-6) and 
+shuffle them face down. Randomly place them on top of each harbor on the 
+frame as shown.
+Starting settlements and resources
+Random harbor 
+option

@@ -1,0 +1,16 @@
+source: data\raw\monopoly.pdf
+page: 7
+BANKRUPTCY.. You are declared bankrupt if you owe more than you 
+can pay either to another player or to the Bank. If your 
+ , 
+debt is to another player, you must tum over to that 
+player all that you have of value and retire from the 
+game. In making this settlement, if you own houses or 
+hotels, you must retum these to the Bank in exchange 
+for money to the extent of one-half the amount paid 
+for them; this cash is given to the creditor. If you have 
+mortgaged property you also turn this property over 
+to your creditor but the new owner must at once pay . 
+the Bank the amount of interest on the loan, which is 10% of the value of 
+the property. The new owner who does this may then, at hislher option, 
+pay the principal or hold the property until some later turn, then lift the

@@ -1,0 +1,14 @@
+source: data\raw\catan_34.pdf
+page: 11
+1212Example: See Illustration M. Olivia, the blue player, wants 
+to build a new settlement. She may only do so at one of the intersections marked “B”. She cannot build on “A” because of the Distance Rule, nor on “C” because no blue road leads to this intersection.
+Note: If you have built all 5 of your settlements, you must 
+upgrade 1 of your settlements to a city before you can build another settlement. You will then have the settlement in your supply, so you can build another settlement.
+set-up phase
+Begin the “set-up 
+phase” after you build the game map (see Illustration N and Set-up, Variable
+ Y
+).
+Everyone chooses 
+a color and takes the corresponding game pieces:
+• 5 settlements;

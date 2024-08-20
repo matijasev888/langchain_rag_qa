@@ -1,0 +1,15 @@
+source: data\test\raw\monopoly.pdf
+page: 7
+pay the principal or hold the property until some later turn, then lift the 
+mortgage. If helshe holds property in this way until a later turn, helshe 
+must pay the interest again upon lifting the mortgage. 
+Should you owe the Bank, instead of another player, more than you 
+can pay (because of taxes or penalties) even by selling off buildings 
+and mortgaging property, you must turn over all assets to the Bank. In 
+this case, the Bank immediately sells by auction all property so taken, 
+except buildings. A bankrupt player must immediately retire from the 
+game. The last player left in the game wins. 
+MISCEUANEOUS: Money can be loaned to a player only by the Bank 
+and then only by mortgaging property. No player may borrow from or 
+lend money to another player. 
+L

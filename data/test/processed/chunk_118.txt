@@ -1,0 +1,17 @@
+source: data\test\raw\monopoly.pdf
+page: 4
+your total worth. 
+"JAIL": You land in Jail when. ..(I) your token lands on the space 
+marked "Go to Jail"; (2) you draw a card marked "Go to JailN; or 
+(3) you throw doubles three times in succession. 
+When you are sent to Jail you cannot 
+collect your $200 salary in that move 
+since, regardless of where your token 
+is on the board, you must move it 
+directly into Jail. Your turn ends when 
+you are sent to Jail. 
+If you are not "sent" to Jail but in the ordinary course of play land on 
+that space, you are "Just Visiting," you incur no penalty, and you move 
+ahead in the usual manner on your next turn. 
+You get out of Jail by.. .(I) throwing doubles on any of your next 
+three turns; if you succeed in doing this you immediately move forward

@@ -1,0 +1,11 @@
+source: data\test\raw\monopoly.pdf
+page: 1
+a utility. Note: The Bus and Mr. Monopoly are valued at 0. 
+CLASSIC MONOPOW RULES 
+OBJECT: The object of the game IS to become the 
+wealthiest player through buying, renting and selling 
+property. 
+PREPARATION: Place the board on a table and put 
+the Chance and Community Chest cards facedown on 
+their allotted spaces on the board. Each player chooses one token to 
+represent himther while traveling around the board.

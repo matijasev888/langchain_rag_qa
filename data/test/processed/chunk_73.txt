@@ -1,0 +1,26 @@
+source: data\test\raw\catan_34.pdf
+page: 13
+required for victory.UNIVERSITY
+A general note on Catan rules. This is the 5th English-
+language edition of Catan (aka Settlers of Catan). Over the 
+years, the rules have been clarified, refined, and occasionally 
+updated. As of January 1, 2015, all of the rules in this version 
+of Catan take precedence over any previously-published rules.
+= 2 VPs
+= 2 VPs
+= 2 VPs
+= 1 VP
+Victory Points in Catan
+= 1 VP
+© 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach 
+the number of points 
+required for victory.UNIVERSITYlaRGest aRmy
+2 Victory Points!
+The first player to play 3 Knight cards  
+gets this card. Another player who plays 
+more Knight cards takes this card.
+2 Victory Points!
+This card goes to the player with the  
+longest road of at least 5 segments.

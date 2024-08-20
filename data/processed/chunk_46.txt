@@ -1,0 +1,16 @@
+source: data\raw\catan_34.pdf
+page: 9
+during the setup phase (see Set-up, Variable Y ).
+PP
+paths
+Paths are defined as the edges where 
+2 hexes and/or hexes and the frame meet. Paths run along the border of  2 terrain hexes or between a land hex and the frame. Only one road Y  can be 
+built on any path. At each end of a path is an intersection Y .
+proGress Cards
+Progress cards are a type of development card. They have 
+green frames. There are 2 each of 3 varieties:
+Road Building: If you play this card, you may 
+immediately place 2 free roads on the board (according to normal building rules).
+Year of Plenty: If you play this card you may 
+immediately take any 2 resource cards from the supply stacks. You may use these cards to build in the same turn.
+Monopoly: If you play this card, you must

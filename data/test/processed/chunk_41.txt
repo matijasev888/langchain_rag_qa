@@ -1,0 +1,8 @@
+source: data\test\raw\catan_34.pdf
+page: 8
+You can break an opponent’s road by building a settlement on 
+an unoccupied intersection along that road!
+Example: In Illustration I, Coleman (the blue player) builds a settlement on intersection “C” (which is legal). This breaks Emily’s road into 2 parts. Emily must give the special card to Coleman, who now has the Longest Road (and 2 more VPs).
+Special Case: If your longest road is broken and you are 
+tied for longest road, you still keep the “Longest Road” card. However, if you no longer have the longest road, but two or more players tie for the new longest road, set the “Longest Road” card aside. Do the same if no one has a 5+ segment road. The “Longest Road” card comes into play again when only 1 player has the longest road (of at least 5 road pieces).MM
+maritime  trade

@@ -1,0 +1,14 @@
+source: data\test\raw\catan_34.pdf
+page: 9
+It is possible that during the game there will not be enough 
+resources in the bank to supply all of the yields. If there are not enough resource cards to give every player all the production they earn, then no player receives any of that resource that turn. Exception: If the shortage of resource cards only affects a single player, give that player as many of these resources as are left in the supply, and any extras are lost. In either case,    production of other types of resources is not affected.
+© 2015 Catan GmbHROAD BUILDING
+Place 2 new roads as if
+you had just built them.
+© 2015 Catan GmbHTake any 2 resources from
+the bank. Add them to
+your hand. They can be
+2 of the same resource or
+2 different resources.YEAR OF PLENTY
+© 2015 Catan GmbHMONOPOLY
+When you play this card,

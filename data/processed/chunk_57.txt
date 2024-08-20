@@ -1,0 +1,21 @@
+source: data\raw\catan_34.pdf
+page: 10
+(3) After discarding occurs, you also steal 1 resource card at 
+random from a player who has a settlement or city adjacent to this new hex. If there are 2 or more players with buildings there, you may choose from which one to steal. 
+The robber must be moved. You may not choose to leave the 
+robber on the same hex.
+After moving the robber, your turn continues with the trade 
+phase.
+See also Knights Y .
+SS
+settlements
+A settlement is worth 1 victory point. 
+Settlements are built on intersections Y  (where  
+3 hexes meet or 1 or 2 hexes meet the frame). You share in all of the resource production of each terrain hex adjacent to your settlements.
+You must meet 2 conditions when building a settlement:
+(1)
+ Y
+our settlement must always connect to 1 or more of your 
+own roads Y .
+(2)
+ Y

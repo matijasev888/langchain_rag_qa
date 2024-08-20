@@ -1,0 +1,13 @@
+source: data\raw\monopoly.pdf
+page: 5
+complete color-group, hdshe may buy a hotel from the Bank and erect 
+it on any property of the color-group. Hdshe returns the four houses 
+from that property to the Bank and pays the price for the hotel as shown 
+on the Ttle Deed card. Only one hotel may be erected on any one 
+property. 
+BUILDING SHORTAGES: When the Bank has no houses to sell, players 
+wishing to build must wait for some player to return or sell histher 
+houses to the Bank before building. If there are a limited number of 
+houses and hotels available and two or more players wish to buy more 
+than the Bank has, the houses or hotels must be sold at auction to the 
+highest bidder.

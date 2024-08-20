@@ -1,0 +1,22 @@
+source: data\raw\catan_34.pdf
+page: 15
+Produces LumberM
+ountains  
+Produce Ore
+F
+ields  
+Produce GrainP
+asture  
+Produces WoolD
+esert  
+Produces Nothing
+E11
+22
+33
+44
+5566
+77
+88
+99
+1010
+1111

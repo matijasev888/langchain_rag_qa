@@ -1,0 +1,8 @@
+source: data\raw\catan_34.pdf
+page: 15
+1616The island of Catan lies before you. The isle consists of  
+19 terrain tiles surrounded by ocean. Your goal is to settle on 
+Catan, and expand your territory until it becomes the largest and most glorious in Catan.
+There are five productive terrain types and one desert on Catan. Each terrain type produces a different type of resource (The 
+desert produces nothing). Each resource you receive is represented by a card. Here’s what each terrain produces:You only collect resources if you own a settlement or city bordering these terrain hexes. In the illustration, the red 
+settlement [A] borders the “10” mountains and orange settlement [B] borders the “10” hills. If a “10” is rolled, the red player receives 1 ore card and the orange player receives 1 brick card.

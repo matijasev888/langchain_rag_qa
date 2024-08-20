@@ -1,0 +1,17 @@
+source: data\raw\monopoly.pdf
+page: 1
+NO, there are no more properties in the bank - Advance to the 
+NOCT property on which you will owe another player money. 
+A few minor details: 
+Only the white dice are used when determining if you rolled doubles. 
+Do not look at the Speed Die. 
+If you roll a three-of-a-kind (all of the dice show the same number), 
+you can move anywhere you want on the board! 
+If you get sent to jail during your move (either by landing on the "Go 
+to Jail" space or by rolling doubles three times in a row) then your turn 
+is over and you do not get to use the Speed Die for that turn. 
+Use the white dice ONLY when rolling to get out of jail. 
+L 
+Use the sum of all three dice when determining how much to pay on 
+a utility. Note: The Bus and Mr. Monopoly are valued at 0. 
+CLASSIC MONOPOW RULES

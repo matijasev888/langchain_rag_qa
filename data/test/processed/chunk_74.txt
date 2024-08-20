@@ -1,0 +1,7 @@
+source: data\test\raw\catan_34.pdf
+page: 13
+2 Victory Points!
+This card goes to the player with the  
+longest road of at least 5 segments.  
+Another player who builds a longer  
+road takes this card.lonGest Road

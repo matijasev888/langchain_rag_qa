@@ -1,0 +1,9 @@
+source: data\raw\catan_34.pdf
+page: 13
+VV
+viCtory point Cards
+Victory point cards are development cards Y , so they can 
+be “bought.” These orange framed development cards represent important cultural achievements, represented by certain buildings.
+Each victory point card is 
+worth 1 victory point. You only reveal your victory point cards when you or someone else wins the game! Keep victory point cards hidden until you have 10 points during your turn and you can declare victory. (You should also reveal them if someone else wins.)
+Hint: Again, keep your victory point cards hidden until the end of the game. Place them face down in front of you. Of course, if you have 1 or 2 unused cards face down in front of you for a long time, the other players will assume that they are victory point cards.viCtory points

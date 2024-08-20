@@ -1,0 +1,15 @@
+source: data\test\raw\monopoly.pdf
+page: 2
+and auctions properties and hands out the~r proper Title Deed cards; 
+it sells houses and hotels to the players and loans money when 
+required on mortgages. 
+The Bank collects all taxes, fines, loans and interest, and the price of 
+all properties which it sells and auctions. 
+The Bank nwer "goes broke." If the Bank runs out of money, the Banker 
+may issue as much more as needed by writing on any ordinary paper. 
+THE PLAY: Starting with the Banker, each player in turn throws the dice. 
+The player with the highest total starts the play: Place your 
+token on the corner marked "GO," throw the dice and move 
+your token in the direction of the arrow the number of 
+spaces indicated by the dice. After you have completed 
+your play, the turn passes to the left. The tokens remain

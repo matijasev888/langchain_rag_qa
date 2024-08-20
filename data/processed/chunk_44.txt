@@ -1,0 +1,18 @@
+source: data\raw\catan_34.pdf
+page: 8
+Example: Ron built a settlement at the ore special harbor. He may exchange 2 ore cards for any 1 other resource card. He can also trade 4 ore cards for any 2 other cards. If he traded 4 wool instead of 4 ore, he would get only 1 card in return.
+Illustration I
+© 2015 Catan GmbH
+© 2015 Catan GmbH
+© 2015 Catan GmbH
+© 2015 Catan GmbH
+© 2015 Catan GmbH:
+BB
+AA
+CC
+lonGest Road
+2 Victory Points!
+This card goes to the player with the  
+longest road of at least 5 segments.  
+Another player who builds a longer  
+road takes this card.

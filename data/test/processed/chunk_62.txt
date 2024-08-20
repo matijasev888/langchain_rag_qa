@@ -1,0 +1,9 @@
+source: data\test\raw\catan_34.pdf
+page: 11
+The second settlement can be placed on any unoccupied 
+intersection, as long as the Distance Rule is observed. It doesn’t have to connect to the first settlement. The second road must attach to the second settlement (pointing in any of the 3 directions).
+Each player receives their starting resources immediately after 
+building their second settlement. For each terrain hex adjacent to this second settlement, take a corresponding resource card from the supply.
+Note: The starting player (the last to place their second settlement) begins the game: That player rolls both dice for resource production. You can find helpful tips about the set-up phase under “Tactics.”
+set-up, varia Ble
+Assemble the frame as outlined on pages 2-3.

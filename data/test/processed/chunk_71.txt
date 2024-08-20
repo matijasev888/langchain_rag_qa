@@ -1,0 +1,14 @@
+source: data\test\raw\catan_34.pdf
+page: 13
+The first player to reach (be at) 10 victory points (VPs)  
+on their turn wins the game.
+Players acquire victory points (VPs) for the following:
+1 settlement = 1 VP1 city = 2 VPsLongest Road special card = 2 VPsLargest Army special card = 2 VPsVictory point (VP) card = 1 VPSince each player begins with 2 settlements, each player 
+begins the game with 2 victory points.
+Therefore, you only need 8 more victory points to win the 
+game!
+Hint: In Catan, you will often see an icon of a 
+rising sun (on VP cards and special VP cards, etc.). This is the VP symbol. It is a visual reminder for the things, other than settlements and cities, that earn you VPs. Each VP symbol you see is worth 1 VP .
+© 2015 Catan GmbH1 Victory Point!
+Reveal this card on your 
+turn if, with it, you reach

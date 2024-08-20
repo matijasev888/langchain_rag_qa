@@ -1,0 +1,20 @@
+source: data\raw\catan_34.pdf
+page: 11
+Y
+).
+Everyone chooses 
+a color and takes the corresponding game pieces:
+• 5 settlements;
+• 4 cities;• 15 roads; and• 1 building costs card.Sort the resource cards into 5 stacks and place them face up 
+beside the board.
+Shuffle the development cards Y  and place them face down 
+beside the resource cards.
+Place the 2 special cards and the dice beside the board.Place the robber in the desert.The set-up phase has 2 rounds. Each player builds 1 road and 
+1 settlement per round.Round One
+Each player rolls both dice. The 
+player who rolls highest is the starting 
+player and begins.
+The starting player places a 
+settlement on an unoccupied intersection Y  of their choice, then 
+places a road adjacent to this settlement.
+The other players then follow clockwise.

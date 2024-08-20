@@ -1,0 +1,14 @@
+source: data\raw\monopoly.pdf
+page: 2
+your play, the turn passes to the left. The tokens remain 
+on the spaces qccupied and proceed from that point on 
+the player's next turn. Two or more tokens may rest on the 
+same space at the same time. 
+According to the space your token reaches, you may be entitled to 
+buy real estate or other properties - or obliged to pay rent, pay taxes, 
+draw a Chance or Community Chest card, "Go to Jail," etc. 
+If you throw doubles, you move your token as usual, the sum of the 
+two dice, and are subject to any privileges or penalties pertaining to 
+the space on which you land. Retaining the dice, throw again and move 
+your token as before. If you throw doubles three times in succession, 
+move your token immediately to the space marked "In Jail" (see JAIL).

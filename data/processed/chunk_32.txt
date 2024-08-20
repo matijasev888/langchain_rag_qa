@@ -1,0 +1,8 @@
+source: data\raw\catan_34.pdf
+page: 6
+Example: It is Pete’s turn. He needs one brick to build a 
+road. He has 2 lumber and 3 ore. Pete asks aloud, “Who will give me 1 brick for 1 ore?” Beth answers, “If you give me 3 ore, I’ll give you a brick.” Cooper interjects, “I’ll give you 1 brick if you give me 1 lumber and 1 ore.” Pete accepts Cooper’s offer and trades a lumber and an ore for a brick. Note Beth may not trade with Cooper, since it is Pete’s turn.
+EE
+endin G the Game
+If you have—or reach—10 victory 
+points on your turn, the game ends immediately and you win! You can only win during your turn. If somehow you find you have 10 victory points during another player’s turn, you must wait until your next turn to claim victory.

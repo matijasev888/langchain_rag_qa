@@ -1,0 +1,11 @@
+source: data\test\raw\catan_34.pdf
+page: 3
+can trade with the bank more favorably: at either a 3:1 ratio or, in certain harbors, at 2:1 (trading the resource type shown).
+Important: The 4:1 trade is always possible, even if you do not have a settlement on a harbor.
+3. Build Y
+Now you can build. Through building, you can increase your 
+victory points Y , expand your road network, improve your 
+resource production, and/or buy useful development cards. To build, you must pay specific combinations of resource cards (see the Building Costs Card Y ). Take the appropriate number 
+of roads, settlements, and/or cities from your supply and place them on the game board. Keep development cards hidden in your hand.
+You cannot build more pieces than what is available in your 
+pool—a maximum of 5 settlements, 4 cities, and 15 roads.

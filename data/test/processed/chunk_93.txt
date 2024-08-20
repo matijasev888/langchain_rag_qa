@@ -1,0 +1,24 @@
+source: data\test\raw\catan_56.pdf
+page: 2
+(lettered A to Y and ZA, ZB, and ZB).
+Assemble the frame as specified in CATAN and add the 4 small sea frame pieces from 
+CATAN 5-6 as shown here:
+•  Place the small “2-2” all-sea frame 
+piece between the “2-2” joint of the 
+CATAN frames (A).
+•  Place the small “3-3” 2:1 wool harbor 
+frame piece between the  
+“3-3” joint of the CATAN frames (B).
+•  Place the samll “5-5” 3:1 harbor 
+frame piece between the “5-5” joint of 
+the CATAN frames (C).
+• Place the small “6-6” all-sea frame 
+piece between the “6-6” joint of the 
+CATAN frames (D).
+55
+5
+5342242
+266633311
+6
+AA
+BBCCDDAdd the Small Sea Frames

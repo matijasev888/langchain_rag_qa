@@ -1,0 +1,14 @@
+source: data\raw\catan_34.pdf
+page: 9
+1010NN
+numBer toKens
+The 18 number tokens are marked with the 
+numerals “2” through “12.” There is only one “2” 
+and one “12.” There is no “7.”
+The more often a number is rolled, the more often each 
+associated hex produces resources. Note the size of the numbers and the dots (pips) beneath the numbers on the tokens. The taller the number and the larger the quantity of dots, the more likely it is that number will be rolled. “6” and “8” (the red numbers) are the most frequently rolled numbers. They each have 5 dots, because there are 5 ways to roll these numbers on the 2 dice.
+The letters on the back of the number tokens are only used 
+during the setup phase (see Set-up, Variable Y ).
+PP
+paths
+Paths are defined as the edges where

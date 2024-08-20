@@ -1,0 +1,13 @@
+source: data\raw\catan_34.pdf
+page: 5
+Y
+.
+Buildin G Costs Cards
+The building costs cards show what can be built and which 
+resources are required. When you pay building costs, you must return the necessary resources to their supply stacks. You can build settlements Y  and roads Y , upgrade settlements to 
+cities Y , and buy development cards Y .
+CC
+Cities
+You cannot build a city directly. You can only 
+upgrade an existing settlement to a city. You pay the required resources, return the settlement to your supply, and replace the settlement with a city on the same intersection Y . Each city is worth 2 victory points. You receive 
+double resource production (2 resource cards) from the adjacent terrain hexes whenever those numbers are rolled.When you build a city, the upgraded settlement piece becomes

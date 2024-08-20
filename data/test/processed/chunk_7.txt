@@ -1,0 +1,39 @@
+source: data\test\raw\catan_34.pdf
+page: 2
+Take your color’s building costs card. (See Illustration B.)Place the special cards “Longest Road” and “Largest Army” 
+beside the game board along with the 2 dice.
+Sort the resource cards into 5 stacks and put them face up 
+next to the game board. Shuffle the development cards and place them face down by the board.
+You receive resources Y  
+for each terrain hex around your starting settlement marked  with a white star 
+HH  
+(see Illustration A). Take the appropriate resource cards from their stacks.
+99
+••••••••22
+••
+88
+••••••••••1010
+••••••
+55
+••••••••1212
+••
+55
+••••••••44
+••••••
+1111
+••••1010
+••••••
+1111
+••••
+66
+••••••••••44
+••••••
+99
+••••••••66
+••••••••••
+33
+••••
+33
+••••88
+••••••••••Illustration AStarting Map  
+for Beginners

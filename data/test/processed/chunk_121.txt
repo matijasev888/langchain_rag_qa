@@ -1,0 +1,14 @@
+source: data\test\raw\monopoly.pdf
+page: 5
+Following the above rules, you may buy and erect at any time as 
+many houses as your judgement and financial standing will allow. But 
+you must build evenly, i.e., you cannot erect more than one house on 
+any one property of any color-group until you have built one house on 
+wery property of that group. You may then begin on the second row 
+of houses, and so on, up to a limit of four houses to a property. For 
+example, you cannot build three houses on one property if you have 
+only one house on another property of that group. 
+As you build evenly, you must also break down evenly ifyou sell 
+houses back to the Bank (see SELLING PROPERTY). 
+HOTELS: When a player has four houses on each property of a 
+complete color-group, hdshe may buy a hotel from the Bank and erect

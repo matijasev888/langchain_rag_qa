@@ -1,0 +1,34 @@
+source: data\test\raw\catan_34.pdf
+page: 2
+The first player to play 3 Knight cards 
+gets this card. Another player who plays 
+more Knight cards takes this card.
+• A City replaces an already-built Settlement.
+• Usually, you only play 1 development card per 
+turn, and you cannot play a development card on 
+the turn it’s built.
+lonGest Road
+2 Victory Points!
+This card goes to the player with the  
+longest road of at least 5 segments.  
+Another player who builds a longer  
+road takes this card.HHHH
+HHHH
+Hills  
+Produce Brick
+Forest  
+Produces Lumber
+Mountains  
+Produce Ore
+Fields  
+Produce Grain
+Pasture  
+Produces Wool
+Desert  
+Produces NothingBegin the game with  
+the resource cards  
+produced by the  
+settlements  
+marked with  
+white stars.  
+See HH.

@@ -1,0 +1,18 @@
+source: data\test\raw\catan_34.pdf
+page: 7
+88GG
+Game play
+Here is a summary of the the game sequence, plus some 
+more specific entries where you can find details:
+(1) Lay out the game board: Set-up, Variable Y
+(2) Initial set-up: Set-up Phase Y(3) PlayThe starting player begins the game. The other players follow 
+in clockwise order.
+On your turn, you complete these 3 phases in order:• Roll for Resource Production Y  (the roll applies to  
+all players)
+• Trade Y• Build YYou may play 1 development card any time during your turn.Pass the dice to the player on your left at the end of your turn. 
+That player then takes their turn using the same 3 phases.
+HH
+harBors
+Harbors allow you to trade 
+resources more favorably. In  
+order to control a harbor, you  must build a settlement on a coastal intersection Y  which

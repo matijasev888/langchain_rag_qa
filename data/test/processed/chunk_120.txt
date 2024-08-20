@@ -1,0 +1,18 @@
+source: data\test\raw\monopoly.pdf
+page: 5
+"FREE PARKING": A player landing on this place does not 
+receive any money, property or reward of any kind. This is just a "free" 
+resting place. 
+HOUSES: When you own all the propert~es in a color-group 
+you may buy houses from the Bank and erect them on those properties. 
+If you buy one house, you may put it on any 
+one of those properties. The next house you 
+buy must be erected on one of the unimproved 
+properties of this or any other complete color- 
+group you may own. 
+The price you must pay the Bank for each 
+house is shown on your ltle Deed card for the 
+property on which you erect the house. 
+The owner still collects double rent from an opponent who lands on 
+the unimproved properties of hisher complete color-group. 
+Following the above rules, you may buy and erect at any time as

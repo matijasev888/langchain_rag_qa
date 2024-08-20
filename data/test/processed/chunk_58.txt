@@ -1,0 +1,16 @@
+source: data\test\raw\catan_34.pdf
+page: 10
+(1)
+ Y
+our settlement must always connect to 1 or more of your 
+own roads Y .
+(2)
+ Y
+ou must observe the Distance Rule Y . For an example of 
+the distance rule, see Illustration M on page 12.
+Example: See Illustration L. It is Xander’s turn and he rolls a “7.” He must move the robber. The robber was in a fields hex. Xander places it on the “4” number token of a hills hex. If a “4” is rolled in the coming turns, the owners of settlements 
+Illustration L
+JJ44••••••
+AA
+BB
+RobberRobberIllustration K

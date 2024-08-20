@@ -1,0 +1,12 @@
+source: data\raw\catan_34.pdf
+page: 6
+either 1 knight card or 1 progress card. You can play the 
+card at any time, even before you roll the dice. You may not, however, play a card that you bought during the same turn.
+Exception: If you buy a card and it is a victory point card Y  
+that brings you to 10 points, you may immediately reveal this card  (and all other VP cards) and  win the game.
+You only reveal victory point 
+cards when the game is over—once you or an opponent reaches 10+ victory points and declares victory.
+distan Ce rule
+You may only build a settlement 
+on an unoccupied intersection Y  and only if none of the 3 
+adjacent intersections contains a settlement or city.

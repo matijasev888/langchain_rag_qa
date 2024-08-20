@@ -1,0 +1,22 @@
+source: data\test\raw\catan_34.pdf
+page: 15
+frequently a number is 
+rolled, the more often 
+the hexes with those 
+numbers produce 
+resources. 
+You should 
+consider 
+settling on 
+hexes that have 
+good potential for 
+production (i.e.  
+6 and 8 vs. 2 and 12).  
+However, these same 
+high-producing hexes are 
+often the primary target for 
+the robber.You begin the game with 2 settlements and 2 roads. Each settlement is worth 1 victory point. You therefore start the game 
+with 2 victory points! The first player to acquire 10 victory points on their turn wins the game.
+To gain more victory points, you must build new roads and 
+settlements and upgrade your settlements to cities. Each city is worth 2 victory points. To build or upgrade, you need to acquire resources.
+How do you acquire

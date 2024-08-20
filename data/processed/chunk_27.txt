@@ -1,0 +1,10 @@
+source: data\raw\catan_34.pdf
+page: 5
+Coast
+When a terrain hex borders on the sea (i.e., a frame piece), 
+it is called a “coast.” You can build a road along a coast. You can build settlements and upgrade settlements to cities on intersections that border on the sea. However, since a site on the coast borders only 1 or 2 terrain hexes, coastal settlements generate smaller resource yields. Still, coastal sites often lie on harbors, which allow you to use maritime trade Y  to trade 
+resources at more favorable rates.
+ComBined trade/Build phase
+The separation of the trade and build phases was introduced 
+to make the sequence easier to learn for beginners. We recommend experienced players ignore this separation.
+After rolling for resource production, you can trade and build

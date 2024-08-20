@@ -1,0 +1,15 @@
+source: data\raw\catan_34.pdf
+page: 3
+pool—a maximum of 5 settlements, 4 cities, and 15 roads.
+a) Road Y  Requires: Brick & Lumber
+A new road must always connect to 1 of your existing roads, 
+settlements, or cities. Only 1 road can be 
+built on any given path Y .
+The first player to build a continuous 
+road (not counting forks) of at least 5 road segments receives the special card “Longest Road Y .” If another player 
+succeeds in building a longer road than the one created by the current owner of the “Longest Road” card, they immediately take the special card (and its 2 victory points). Tip: This creates a 4 victory point swing!
+Illustration C
+Illustration D
+© 2015 Catan GmbH
+ © 2015 Catan GmbH
+=

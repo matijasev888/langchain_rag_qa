@@ -1,0 +1,14 @@
+source: data\raw\catan_56.pdf
+page: 0
+Trade   Build  Settle
+Leave no trace Leave a legacee  wood®
+You have arrived on the island of Catan. Its uninhabited lands lie before you, 
+stretching for miles in all directions. It offers the promise of bountiful harvests  
+and plentiful resources. As you make plans to build a new life here, you discover 
+that you are not alone. Several other newly-arrived leaders are planning their 
+futures here as well. The race to build a bright and prosperous new community has 
+begun!
+The CATAN® – 5-6 Player Extension™ (aka CATAN 5-6) allows you to add one to two 
+players to your CATAN games. The island is larger, the demand for resources is fiercer, and 
+the thrills are even greater!
+NOTE: This 2022 revision has new “paired player” rules that replace the special building phase

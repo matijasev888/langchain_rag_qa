@@ -1,0 +1,19 @@
+source: data\test\raw\catan_34.pdf
+page: 12
+•
+ Assemble the frame exactly as shown in Illustration R.
+•
+ Place the terrain hexes exactly as shown in Illustration R.
+• Place 2 settlements and 2 roads of each color as shown.
+If only 3 are playing, remove the red pieces.•
+ Each player receives the 3 resources from the terrain hexes 
+adjacent to their settlement marked by the white star
+.
+The oldest player is the starting player. The oldest player takes 
+the first turn and rolls for resource production.TT
+taCtiCs
+Since you play Catan with a variable map, the tactical 
+considerations of each game are different. There are, nevertheless, some common points you should consider:
+•
+ Brick and lumber are the most important resources at the beginning of the game. Y
+ou need both to build roads and

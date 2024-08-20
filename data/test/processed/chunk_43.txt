@@ -1,0 +1,7 @@
+source: data\test\raw\catan_34.pdf
+page: 8
+Generic Harbor (3:1): Here 
+you may exchange 3 identical resource cards for any 1 other resource card during your  trade phase.
+Example: Brad has a settlement at a generic harbor. He can, for instance, exchange 3 lumber cards for 1 wool card.
+Special Harbor (2:1): There is 
+only 1 special harbor for each type of resource (with the same symbol). So, if you earn plenty of a certain type of resource, it can be useful to build on the special harbor for that resource type. The exchange rate of 2:1 only applies to the resource shown on the harbor location. A special harbor does not permit you to trade any other resource type at a more favorable rate (not even 3:1)!
