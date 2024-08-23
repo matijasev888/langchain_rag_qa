@@ -1,3 +1,4 @@
+https://www.linkedin.com/in/matija-sever-2641741bb
 # Monopoly and Catan Rules Q&A
 
 This project is a Question & Answer (Q&A) web application that allows users to ask questions about the rules of Monopoly and Catan games. The application uses document retrieval and language generation techniques to provide answers based on the official rulebooks.
